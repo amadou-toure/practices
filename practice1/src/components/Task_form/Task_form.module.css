@@ -1,0 +1,24 @@
+.container{
+display: flex;
+flex-direction: column;
+
+margin-left: 15%;
+margin-right: 15%;
+box-sizing: border-box;
+box-shadow: 10px 10px 5px rgb(33, 32, 32) ;
+background-color: rgb(4, 8, 41);
+border-radius: 6px;
+
+    
+}
+.element{
+   width: 50%;
+   margin: 0 auto;
+   margin-top: 5%;
+   margin-bottom: 5%;
+
+}
+.element input{
+   margin: 0 auto;
+   width: 100%;
+}

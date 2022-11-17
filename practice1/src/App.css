@@ -1,16 +1,3 @@
-.Black{
-  background-color: black;
-  color:aliceblue
-}
-.White{
-  background-color: rgb(247, 248, 246);
-  color: rgb(8, 8, 8);
-}
-.Yellow{
-  background-color: yellow;
-  color: rgb(246, 241, 241);
-}
-.theme{
-  border-radius: 100%;
-  border-color: brown;
+body{
+  margin: 0%;
 }

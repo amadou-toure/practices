@@ -68,3 +68,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+to push, type "git push -u origin main"
+username: amadoutoure01 for amadoumojatoure@outlook.fr
+username: amadou-toure for amadouelcapotoure@gmail.com
+
+### `packages infos links`
+https://www.npmjs.com/package/react-js-toast
